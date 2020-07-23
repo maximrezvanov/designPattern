@@ -19,6 +19,7 @@
 		5C9DA4AE24C8457A00AF5160 /* CategoryCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5C9DA4AD24C8457A00AF5160 /* CategoryCell.swift */; };
 		5C9DA4B024C84A3B00AF5160 /* Category.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5C9DA4AF24C84A3B00AF5160 /* Category.swift */; };
 		5C9DA4B624C8636C00AF5160 /* CategoryNetworkService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5C9DA4B524C8636C00AF5160 /* CategoryNetworkService.swift */; };
+		5C9DA50124C98D2C00AF5160 /* .gitignore in Resources */ = {isa = PBXBuildFile; fileRef = 5C9DA50024C98D2C00AF5160 /* .gitignore */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -57,6 +58,7 @@
 		5C9DA4AD24C8457A00AF5160 /* CategoryCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CategoryCell.swift; sourceTree = "<group>"; };
 		5C9DA4AF24C84A3B00AF5160 /* Category.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Category.swift; sourceTree = "<group>"; };
 		5C9DA4B524C8636C00AF5160 /* CategoryNetworkService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CategoryNetworkService.swift; sourceTree = "<group>"; };
+		5C9DA50024C98D2C00AF5160 /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -112,6 +114,7 @@
 				5C9DA47E24C8441900AF5160 /* Assets.xcassets */,
 				5C9DA48324C8441900AF5160 /* Info.plist */,
 				5C9DA47B24C8441800AF5160 /* __4_TypesOfArchitecture.xcdatamodeld */,
+				5C9DA50024C98D2C00AF5160 /* .gitignore */,
 			);
 			path = 2.4.TypesOfArchitecture;
 			sourceTree = "<group>";
@@ -308,6 +311,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				5C9DA50124C98D2C00AF5160 /* .gitignore in Resources */,
 				5C9DA48224C8441900AF5160 /* LaunchScreen.storyboard in Resources */,
 				5C9DA47F24C8441900AF5160 /* Assets.xcassets in Resources */,
 				5C9DA47A24C8441800AF5160 /* Main.storyboard in Resources */,
